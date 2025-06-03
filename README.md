@@ -20,6 +20,7 @@ applicable to any HPC system. After completing this lesson you should have the f
 * Be aware of the frameworks used to measure and report on carbon emissions and how the terms used in these frameworks map onto HPC;
 * Gain practical advice on how you can measure and improve the carbon efficiency of your use of HPC.
 
+See below for links to lectures and exercises.
 
 * [Lectures](lectures/)
 * [Practical exercises](exercises/)
