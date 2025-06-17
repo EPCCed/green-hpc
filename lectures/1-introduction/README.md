@@ -21,7 +21,7 @@ Only three activities reduce the carbon emissions associated with HPC system use
 ---
 # Breaking down Green HPC
 
-During this course, we will cover six key areas of green HPC, derived from the principles
+During this course, we will cover six key areas of green HPC, derived from the principles of
 green software engineering.
 
 - **Carbon Efficiency**: Emit the least amount of carbon possible.
