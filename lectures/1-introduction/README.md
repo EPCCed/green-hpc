@@ -1,8 +1,8 @@
 template: titleslide
 
 # Green HPC
-## Michael Bareford, EPCC
-## m.bareford@epcc.ed.ac.uk
+## EPCC, University of Edinburgh
+## training@epcc.ed.ac.uk
 
 ---
 
@@ -12,10 +12,12 @@ template: titleslide
 ---
 # What is Green HPC?
 
-Green HPC is carbon-efficient HPC system use, meaning a pattern of usage that emits the least carbon possible.<br>
-There are three strategies for reducing carbon emissions associated with HPC system use.
+- Green HPC is carbon-efficient use of HPC.
+  - patterns of usage that emit the least carbon possible
+  - applies also to the construction and decommissioning of a HPC system
 
-.center[![:scale_img 80%](green_software_principles.png)]
+- There are three strategies for reducing carbon emissions produced by HPC.
+.center[![:scale_img 90%](green_software_principles.png)]
 
 
 ---
