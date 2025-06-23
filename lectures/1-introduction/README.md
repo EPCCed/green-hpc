@@ -4,10 +4,13 @@ template: titleslide
 ## EPCC, University of Edinburgh
 ## training@epcc.ed.ac.uk
 
----
 
+
+---
 template: titleslide
 # Introduction
+
+
 
 ---
 # What is Green HPC?
@@ -20,8 +23,9 @@ template: titleslide
 .center[![:scale_img 90%](green_software_principles.png)]
 
 
+
 ---
-# Breaking down Green HPC
+# Breaking Down Green HPC
 
 During this course, we will cover six key areas of green HPC, derived from the principles of
 green software engineering.

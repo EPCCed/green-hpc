@@ -4,10 +4,13 @@ template: titleslide
 ## EPCC, University of Edinburgh
 ## training@epcc.ed.ac.uk
 
----
 
+
+---
 template: titleslide
 # Carbon Efficiency
+
+
 
 ---
 # Greenhouse Gases
@@ -26,6 +29,7 @@ Greenhouse Gases (GHG) are gases that contribute to global warming and climate c
   - nitrogen trifluoride, NF<sub>3</sub>
 
 In the atmosphere, these gases have different lifetimes and absorb different amounts of solar energy.
+
 
 
 ---
@@ -54,6 +58,7 @@ The GWP100 of N<sub>2</sub>O can be expressed in terms of a carbon equivalence, 
 The concept of **carbon dioxide equivlent** allows us to compare the global warming potential of different GHGs.
 
 
+
 ---
 # GWP over different timescales
 
@@ -65,15 +70,6 @@ If we reduce the timescale under consideration, the GWP will rise for those GHGs
 compared to CO<sub>2</sub>.
 
 
----
-# Carbon efficiency in HPC
-
-We aim to procure and run our HPC services in a way that minimises carbon emissions.
-
-**HPC systems commonly host research activities that can have a positive impact on emissions.**
-  - running climate models to provide the evidence to justify carbon reduction policies
-  - modelling wind farms and energy storage technologies
-   
 
 ---
 # Carbon efficiency in HPC
@@ -82,7 +78,17 @@ We aim to procure and run our HPC services in a way that minimises carbon emissi
 
 **HPC systems commonly host research activities that can have a positive impact on emissions.**
   - running climate models to provide the evidence to justify carbon reduction policies
-  - modelling wind farms and energy storage technologies
+  - modelling wind farms and energy storage technologies to gain insights in how to improve real-world efficiency
+
+
+---
+# Carbon efficiency in HPC
+
+We aim to procure and run our HPC services in a way that minimises carbon emissions.
+
+**HPC systems commonly host research activities that can have a positive impact on emissions.**
+  - running climate models to provide the evidence to justify carbon reduction policies
+  - modelling wind farms and energy storage technologies to gain insights in how to improve real-world efficiency
    
 The benefits of such activites are difficult to quantify however.
 
@@ -94,7 +100,7 @@ We aim to procure and run our HPC services in a way that minimises carbon emissi
 
 **HPC systems commonly host research activities that can have a positive impact on emissions.**
   - running climate models to provide the evidence to justify carbon reduction policies
-  - modelling wind farms and energy storage technologies
+  - modelling wind farms and energy storage technologies to gain insights in how to improve real-world efficiency
    
 The benefits of such activites are difficult to quantify however.
 
