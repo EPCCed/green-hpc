@@ -1,13 +1,4 @@
 template: titleslide
-
-# Green HPC
-## EPCC, University of Edinburgh
-## training@epcc.ed.ac.uk
-
-
-
----
-template: titleslide
 # Carbon Efficiency
 
 
@@ -28,7 +19,7 @@ Greenhouse Gases (GHG) are gases that contribute to global warming and climate c
   - sulphur hexafluoride, SF<sub>6</sub>
   - nitrogen trifluoride, NF<sub>3</sub>
 
-In the atmosphere, these gases have different lifetimes and absorb different amounts of solar energy.
+In the atmosphere, these gases have different lifetimes and absorb different amounts <br>of solar energy.
 
 
 

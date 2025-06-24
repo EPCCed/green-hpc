@@ -1,13 +1,4 @@
 template: titleslide
-
-# Green HPC
-## EPCC, University of Edinburgh
-## training@epcc.ed.ac.uk
-
-
-
----
-template: titleslide
 # Energy Efficiency
 
 
@@ -19,7 +10,7 @@ Research codes running on HPC systems consume electricity, which is a form of en
 converted from a primary power source such as fossil fuels, nuclear fission or renewables.
 
 - Coal, gas and oil are examples of fossil fuels.
-  - The conversion of chemical energy to electricity emits carbon.
+  - The conversion of chemical energy to electricity via combustion emits carbon.
 
 - Nuclear power does not emit carbon when converted to electricity and so in that respect is carbon neutral.
  
@@ -35,7 +26,7 @@ converted from a primary power source such as fossil fuels, nuclear fission or r
 
 - Nuclear power does not emit carbon when converted to electricity and so in that respect is carbon neutral.
  
-- Renewables are also carbon neutral and are so abundant they can be considered as limitless.
+- Renewables are also carbon neutral and are so abundant they can be considered <br>to be limitless.
   - Examples are wind, solar, tidal, geothemal and hydroelectric, <br>so called "green" energy.
 
 - Carbon neutral sources of energy then are thought of as generating "clean" electricity.
