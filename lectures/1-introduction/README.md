@@ -16,8 +16,8 @@ template: titleslide
 # What is Green HPC?
 
 - Green HPC is carbon-efficient use of HPC.
-  - Patterns of usage that emit the least carbon possible.
-  - Applies also to the construction and decommissioning of a HPC system.
+  - It concerns patterns of usage that emit the least carbon possible.
+  - It Applies also to the construction and decommissioning of a HPC system.
 
 - There are three strategies for reducing carbon emissions produced by HPC.
 
@@ -33,7 +33,7 @@ green software engineering.
 
 - **Carbon Efficiency**: Emit the least amount of carbon possible.
 - **Energy Efficiency**: Use the least amount of energy possible.
-- **Carbon Awareness**: Do more when the electricity is cleaner and do less when the electricity is dirtier.
+- **Carbon Awareness**: Do more when the electricity is "cleaner" and do less when the electricity is "dirtier".
 - **Hardware Efficiency**: Use the least amount of embodied carbon possible.
 - **Measurement**: What you cannot measure, you cannot improve.
 - **Reducing Emissions**: Understand mechanisms of carbon reduction.
