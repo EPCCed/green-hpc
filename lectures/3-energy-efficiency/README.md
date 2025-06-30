@@ -40,7 +40,7 @@ converted from a primary power source such as fossil fuels, nuclear fission or r
 - Complex infrastructure is required to harness carbon neutral sources of power,
   - e.g. nuclear power stations, solar panels, wind turbines.
 
-- Embodied sources of carbon emissions are those emissions resulting from construction and equipment manufacture.
+- Embodied sources of carbon emissions are those emissions resulting from construction and manufacture of equipment.
   - This applies to HPC hardware as well.
 
 - There are carbon emissions associated with decommissioning of hardware too.
@@ -58,7 +58,7 @@ The electricity consumed when a code runs on a HPC system depends on the followi
 - the input and configuration parameters that specify how the code runs;
 - the technology of the HPC system itself.
   
-In general, the shorter the time required to run a code on a HPC system.
+In general, the shorter the time required to run a code on a HPC system,
 - the less electricity is needed;
 - the less energy is used;
 - the less carbon is emitted.
@@ -126,10 +126,10 @@ fossil fuels (coal, gas or oil).
 - The PUE varies according to how much energy is needed to the cool the HPC system.
 
 - More cooling is required if...
-  - more compute nodes of the HPC system are in use; or,
-  - outside temperature is warmer.
+  - more compute nodes of the HPC system are in use, or,
+  - the outside air temperature is warmer.
 
-- Sometimes the outside air temperature is cold enough to cool the HPC system without mechnical cooling.
+- Sometimes the outside temperature is cold enough to cool the HPC system without mechnical cooling.
 
 - Averaged over the calendar year, the PUE of the Advanced Data Facility (ADF) that hosts ARCHER2 is 1.1.
   - As the ADF is located in Scotland, where temperatures are cooler compared to London, ARCHER2 benefits from free cooling for most of the year.
@@ -158,7 +158,7 @@ fossil fuels (coal, gas or oil).
   - Its performance is limited by processor speed, or, more usually, the performance of the *floating point units* within the processor.
 
 - Performance can also be **memory-bound** in that it can be limited by the time it takes to access data in memory.
-  - Extra power draw does not increase the number of instructions done per unit of time, rather it is required for memory operations.
+  - Extra power draw does not increase the number of instructions done per unit of time, instead, the additional power is required for memory operations.
 
 
 ---
@@ -168,9 +168,9 @@ fossil fuels (coal, gas or oil).
   - Its performance is limited by processor speed, or, more usually, the performance of the *floating point units* within the processor.
 
 - Performance can also be **memory-bound** in that it can be limited by the time it takes to access data in memory.
-  - Extra power draw does not increase the number of instructions done per unit of time, rather it is required for memory operations.
+  - Extra power draw does not increase the number of instructions done per unit of time, instead, the additional power is required for memory operations.
 
-- Applications can also be **IO-bound** or **communications-bound** if running in parallel.
+- Applications can also be **communications-bound** if running in parallel or **IO-bound**.
   - Different contraints will apply at different points during the application's runtime.
 
 - HPC applications are, if at all, compute-bound only for short periods of their runtime.

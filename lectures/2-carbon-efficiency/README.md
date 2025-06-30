@@ -29,7 +29,8 @@ In the atmosphere, these gases have different lifetimes and absorb different amo
 Each GHG has its own Global Warming Potential (GWP) that measures the *relative* potency of a gas as regards global warming.
 
 Carbon dioxide has the lowest warming potential, it is the most abundant and lasts for thousands of years.
-For those reasons, CO<sub>2</sub> is used as the reference for all other GHGs and given a GWP of 1.
+For those reasons, CO<sub>2</sub> is used as the reference for all other GHGs.
+  - CO<sub>2</sub> has a GWP of 1.
 
 
 ---
@@ -38,7 +39,8 @@ For those reasons, CO<sub>2</sub> is used as the reference for all other GHGs an
 Each GHG has its own Global Warming Potential (GWP) that measures the *relative* potency of a gas as regards global warming.
 
 Carbon dioxide has the lowest warming potential, it is the most abundant and lasts for thousands of years.
-For those reasons, CO<sub>2</sub> is used as the reference for all other GHGs and given a GWP of 1.
+For those reasons, CO<sub>2</sub> is used as the reference for all other GHGs.
+  - CO<sub>2</sub> has a GWP of 1.
 
 For example, over a 100-year timescale, one tonne of nitrous oxide has a global warming impact equivalent to that
 caused by 273 tonnes of CO<sub>2</sub>.
@@ -67,9 +69,9 @@ compared to CO<sub>2</sub>.
 
 We aim to procure and run our HPC services in a way that minimises carbon emissions.
 
-**HPC systems commonly host research activities that can have a positive impact on emissions.**
-  - running climate models to provide the evidence to justify carbon reduction policies
-  - modelling wind farms and energy storage technologies to gain insights in how to improve real-world efficiency
+**HPC systems commonly host research activities that can have a positive impact on emissions, e.g.**
+  - running climate models to provide the evidence to justify carbon reduction policies;
+  - modelling wind farms and energy storage technologies to gain insights in how to improve real-world efficiency.
 
 
 ---
@@ -77,9 +79,9 @@ We aim to procure and run our HPC services in a way that minimises carbon emissi
 
 We aim to procure and run our HPC services in a way that minimises carbon emissions.
 
-**HPC systems commonly host research activities that can have a positive impact on emissions.**
-  - running climate models to provide the evidence to justify carbon reduction policies
-  - modelling wind farms and energy storage technologies to gain insights in how to improve real-world efficiency
+**HPC systems commonly host research activities that can have a positive impact on emissions, e.g.**
+  - running climate models to provide the evidence to justify carbon reduction policies;
+  - modelling wind farms and energy storage technologies to gain insights in how to improve real-world efficiency.
    
 The benefits of such activites are difficult to quantify however.
 
@@ -89,14 +91,14 @@ The benefits of such activites are difficult to quantify however.
 
 We aim to procure and run our HPC services in a way that minimises carbon emissions.
 
-**HPC systems commonly host research activities that can have a positive impact on emissions.**
-  - running climate models to provide the evidence to justify carbon reduction policies
-  - modelling wind farms and energy storage technologies to gain insights in how to improve real-world efficiency
+**HPC systems commonly host research activities that can have a positive impact on emissions, e.g.**
+  - running climate models to provide the evidence to justify carbon reduction policies;
+  - modelling wind farms and energy storage technologies to gain insights in how to improve real-world efficiency.
    
 The benefits of such activites are difficult to quantify however.
 
-**HPC sites can be managed in ways that benefit the local environment.**
-  - redirecting waste heat to reduce the energy needs of homes and businesses
-    - the [waste energy of the LUMI supercomputer](https://www.lumi-supercomputer.eu/the-waste-energy-of-lumi-supercomputer-produces-20-percent-of-the-district-heat-of-kajaani-csc-and-loiste-lampo-have-signed-an-agreement/) is used to heat a city
-  - improving the biodiversity of surrounding land  
+**HPC sites can be managed in ways that benefit the local environment, e.g.**
+  - redirecting waste heat to reduce the energy needs of homes and businesses,
+    - the [waste energy of the LUMI supercomputer](https://www.lumi-supercomputer.eu/the-waste-energy-of-lumi-supercomputer-produces-20-percent-of-the-district-heat-of-kajaani-csc-and-loiste-lampo-have-signed-an-agreement/) is used to heat a city;
+  - improving the biodiversity of surrounding land.
     - [https://www.archer2.ac.uk/community/sustainability/](https://www.archer2.ac.uk/community/sustainability/)
