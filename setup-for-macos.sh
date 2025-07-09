@@ -20,7 +20,7 @@ sudo gem install jekyll
 
 cd /path/to/local/git/repo
 
-jekyll new --skip-bundle .
+jekyll new --skip-bundle --force .
 
 # Within the "Gemfile" file replace the line that starts 'gem "jekyll"' with
 # 'gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins'

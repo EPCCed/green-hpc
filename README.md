@@ -22,7 +22,6 @@ We use the [ARCHER2 UK National Supercomputing Service](www.archer2.ac.uk) as an
 * Be aware of the frameworks used to measure and report on carbon emissions and how the terms used in these frameworks map onto HPC;
 * Gain practical advice on how you can measure and improve the carbon efficiency of your use of HPC.
 
-See below for links to lectures and exercises.
+See below for the lecture material.
 
 * [Lectures](lectures/)
-* [Exercises](exercises/)
