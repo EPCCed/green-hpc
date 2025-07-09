@@ -25,4 +25,4 @@ We use the [ARCHER2 UK National Supercomputing Service](www.archer2.ac.uk) as an
 See below for links to lectures and exercises.
 
 * [Lectures](lectures/)
-* [Practical exercises](exercises/)
+* [Exercises](exercises/)
