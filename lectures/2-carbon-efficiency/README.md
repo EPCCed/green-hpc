@@ -36,11 +36,11 @@ For those reasons, CO<sub>2</sub> is used as the reference for all other GHGs.
 ---
 # Global Warming Potential
 
-Each GHG has its own Global Warming Potential (GWP) that measures the *relative* potency of a gas as regards global warming.
+<span style="color:gray">Each GHG has its own Global Warming Potential (GWP) that measures the *relative* potency of a gas as regards global warming.</span>
 
-Carbon dioxide has the lowest warming potential, it is the most abundant and lasts for thousands of years.
-For those reasons, CO<sub>2</sub> is used as the reference for all other GHGs.
-  - CO<sub>2</sub> has a GWP of 1.
+<span style="color:gray">Carbon dioxide has the lowest warming potential, it is the most abundant and lasts for thousands of years.</span>
+<span style="color:gray">For those reasons, CO<sub>2</sub> is used as the reference for all other GHGs.</span>
+  - <span style="color:gray">CO<sub>2</sub> has a GWP of 1.</span>
 
 For example, over a 100-year timescale, one tonne of nitrous oxide has a global warming impact equivalent to that
 caused by 273 tonnes of CO<sub>2</sub>.
@@ -89,16 +89,31 @@ The benefits of such activites are difficult to quantify however.
 ---
 # Carbon efficiency in HPC
 
-We aim to procure and run our HPC services in a way that minimises carbon emissions.
+<span style="color:gray">We aim to procure and run our HPC services in a way that minimises carbon emissions.</span>
 
-**HPC systems commonly host research activities that can have a positive impact on emissions, e.g.**
-  - running climate models to provide the evidence to justify carbon reduction policies;
-  - modelling wind farms and energy storage technologies to gain insights in how to improve real-world efficiency.
+HPC systems commonly host research activities that can have a positive impact on emissions, e.g.
+  - <span style="color:gray">running climate models to provide the evidence to justify carbon reduction policies;</span>
+  - <span style="color:gray">modelling wind farms and energy storage technologies to gain insights in how to improve real-world efficiency.</span>
    
-The benefits of such activites are difficult to quantify however.
+<span style="color:gray">The benefits of such activites are difficult to quantify however.</span>
 
 **HPC sites can be managed in ways that benefit the local environment, e.g.**
   - redirecting waste heat to reduce the energy needs of homes and businesses,
     - the [waste energy of the LUMI supercomputer](https://www.lumi-supercomputer.eu/the-waste-energy-of-lumi-supercomputer-produces-20-percent-of-the-district-heat-of-kajaani-csc-and-loiste-lampo-have-signed-an-agreement/) is used to heat a city;
   - improving the biodiversity of surrounding land.
     - [https://www.archer2.ac.uk/community/sustainability/](https://www.archer2.ac.uk/community/sustainability/)
+
+
+---
+# <span style="color:red">Exercise 2.1</span>
+
+<br>
+[Carbon emissions from HPC systems](../../exercises/2-carbon-efficiency/1-hpc-carbon-emissions)
+
+
+
+---
+# <span style="color:red">Exercise 2.2</span>
+
+<br>
+[Positive carbon impacts](../../exercises/2-carbon-efficiency/2-positive-carbon-impacts)

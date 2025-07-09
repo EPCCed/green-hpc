@@ -22,7 +22,7 @@ Research codes running on HPC systems consume electricity, which is a form of en
 converted from a primary power source such as fossil fuels, nuclear fission or renewables.
 
 - Coal, gas and oil are examples of fossil fuels.
-  - The conversion of chemical energy to electricity emits carbon.
+  - The conversion of chemical energy to electricity via combustion emits carbon.
 
 - Nuclear power does not emit carbon when converted to electricity and so in that respect is carbon neutral.
  
@@ -46,6 +46,22 @@ converted from a primary power source such as fossil fuels, nuclear fission or r
 - There are carbon emissions associated with decommissioning of hardware too.
   - For nuclear power, there is also the processing and storage of spent nuclear fuel.
 
+
+
+---
+# Are renewables and nuclear really carbon neutral?
+  
+- <span style="color:gray">Complex infrastructure is required to harness carbon neutral sources of power,</span>
+  - <span style="color:gray">e.g. nuclear power stations, solar panels, wind turbines.</span>
+
+- <span style="color:gray">Embodied sources of carbon emissions are those emissions resulting from construction and manufacture of equipment.</span>
+  - <span style="color:gray">This applies to HPC hardware as well.</span>
+
+- <span style="color:gray">There are carbon emissions associated with decommissioning of hardware too.</span>
+  - <span style="color:gray">For nuclear power, there is also the processing and storage of spent nuclear fuel.</span>
+
+- The embodied emissions due to renewables are insignificant however compared to the *emissions saved* over the lifetime of the facility powered by renewable sources.
+  - That is those emissions that would have been produced by a non-renewable powered facility over the same time period.  
 
 
 ---
@@ -189,3 +205,11 @@ configurable by the user.
 
 - HPC systems need to be "always on" since demand is unpredictable, maximising idle power consumption.
   - For this reason, HPC sites aim to run as close as possible to 100% utilisation.
+
+
+
+---
+# <span style="color:red">Exercise 3.1</span>
+
+<br>
+[Energy efficiency on HPC systems](../../exercises/3-energy-efficiency/1-hpc-energy-efficiency)

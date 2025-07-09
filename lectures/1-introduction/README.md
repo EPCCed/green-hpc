@@ -17,7 +17,7 @@ template: titleslide
 
 - Green HPC is carbon-efficient use of HPC.
   - It concerns patterns of usage that emit the least carbon possible.
-  - It Applies also to the construction and decommissioning of a HPC system.
+  - It applies also to the construction and decommissioning of a HPC system.
 
 - There are three strategies for reducing carbon emissions produced by HPC.
 
@@ -43,3 +43,10 @@ and how you can apply them on HPC systems.
 
 We will use the [ARCHER2 UK National Supercomputing Service](https://www.archer2.ac.uk) to provide concrete examples of how
 the principles can be applied.
+
+
+---
+# <span style="color:red">Exercise 1.1</span>
+
+<br>
+[What does your work look like?](../../exercises/1-introduction/1-personal-carbon-emissions)
