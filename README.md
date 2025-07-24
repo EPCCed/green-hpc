@@ -6,7 +6,7 @@
 
 This course introduces environmental sustainability principles in the context of High Performance Computing (HPC) systems.
 
-The course material will give you the ability to understand carbon emissions arising from use of HPC system and
+The course material will give you the ability to understand carbon emissions arising from use of HPC systems and
 how to quantify them. We will use practical examples and real data from an existing HPC facility to illustrate the concepts.
 
 Understanding the scale of emissions from different sources within HPC is critical to knowing how HPC can be made more
@@ -22,7 +22,6 @@ We use the [ARCHER2 UK National Supercomputing Service](www.archer2.ac.uk) as an
 * Be aware of the frameworks used to measure and report on carbon emissions and how the terms used in these frameworks map onto HPC;
 * Gain practical advice on how you can measure and improve the carbon efficiency of your use of HPC.
 
-See below for links to lectures and exercises.
+Click the link below for the lecture material.
 
 * [Lectures](lectures/)
-* [Exercises](exercises/)

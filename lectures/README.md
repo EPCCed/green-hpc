@@ -1,6 +1,6 @@
 # Lectures
 
-* [An Introduction to Green HPC](1-introduction)
-* [Carbon Efficiency](2-carbon-efficiency)
-* [Energy Efficiency](3-energy-efficiency)
-* [Carbon Awareness](4-carbon-awareness)
+1. [An Introduction to Green HPC](1-introduction)
+2. [Carbon Efficiency](2-carbon-efficiency)
+3. [Energy Efficiency](3-energy-efficiency)
+4. [Carbon Awareness](4-carbon-awareness)
