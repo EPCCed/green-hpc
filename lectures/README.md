@@ -4,3 +4,4 @@
 2. [Carbon Efficiency](2-carbon-efficiency)
 3. [Energy Efficiency](3-energy-efficiency)
 4. [Carbon Awareness](4-carbon-awareness)
+5. [Hardware Efficiency](5-hardware-efficiency) 
