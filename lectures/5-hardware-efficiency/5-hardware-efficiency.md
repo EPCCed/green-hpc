@@ -1,9 +1,5 @@
 # Hardware EfficiencyGreenHPC
 
-
----
-
-
 # Introduction
 
 Hardware that makes up HPC systems is an important element\.
@@ -11,10 +7,6 @@ Hardware that makes up HPC systems is an important element\.
 For HPC systems located in regions with low carbon intensity for electricity generation\, hardware could be the dominant component of associated emissions\.
 
 This section will cover embodied carbon\, and the measures you can take to reduce the impact of creation\, destruction\, and running this hardware\.
-
-
----
-
 
 # Embodied carbon
 
@@ -28,15 +20,7 @@ Embodied carbon varies significantly between different hardware\!
 
 By thinking in terms of embodied carbon\, any device is responsible for the release of carbon over its lifetime\, even if it isn’t consuming electricity\.
 
-
----
-
-
-![](img/HardwareEfficiency0.png)
-
-
----
-
+![](hardware-efficiency0.png)
 
 # Amortisation
 
@@ -46,15 +30,7 @@ For example\, suppose it took 4000 kgCO2e to build an HPC system\, and we expect
 
 Typically\, we amortise the embodied emissions over the total amount of  __resource__  available on the HPC system over its lifetime; if the resource use is measured in GPUh\, then the emissions rate would be in kgCO2e/GPUh for the total GPUh available on the service over its lifetime\.
 
-
----
-
-
-![](img/HardwareEfficiency1.png)
-
-
----
-
+![](hardware-efficiency1.png)
 
 # How to improve hardware efficiency
 
@@ -63,27 +39,15 @@ Typically\, we amortise the embodied emissions over the total amount of  __resou
   * __Extending the lifespan __ – reduces the carbon emission rate per unit of resource due to amortisation
   * __Increasing the utilisation and performance__  – getting more useful work out of the hardware per unit of resource
 
-
----
-
-
 # Extending the lifespan of hardware
 
-![](img/HardwareEfficiency2.png)
-
-
----
-
+![](hardware-efficiency2.png)
 
 From the previous slide\, if we can add just one more year to the lifespan of the HPC system\, then the amortised carbon emission rates from 1000 kgCO2e/year to 800 kgCO2e/year\.
 
 HPC systems have historically had lifetimes of around 5\-7 years\, when they are replaced by newer systems that provide improved performance and functionality and are typically more energy efficient\.
 
 Extending the lifetime of HPC systems for longer periods may lead to improved carbon efficiency\, outweighing the energy efficiency of new systems\.
-
-
----
-
 
 # Increasing utilisation and performance
 
@@ -92,10 +56,6 @@ As well as increasing the lifespan\, we can also work to make sure we get the mo
 100% utilisation is better than 20% due to embodied carbon\, and even idle components consume some electricity\.
 
 For users\, improving carbon efficiency with respect to embodied carbon corresponds to increasing performance \(more output per unit of time\)\. Typically though\, this may lead to higher power draw and higher electricity use which increases the emissions from the use of electricity…
-
-
----
-
 
 * We need to know the balance between embodied emissions and emissions from electricity use to make useful choices about improving efficiency\.
 * There are three potential scenarios:
