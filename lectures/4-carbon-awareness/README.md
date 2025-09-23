@@ -356,4 +356,4 @@ temporal shifting on an HPC system?
 # <span style="color:red">Next Lecture</span>
 
 <br>
-## [Hardware Efficiency](../5-hardware-efficiency/5-hardware-efficiency.md)
+## [Hardware Efficiency](../5-hardware-efficiency/)
